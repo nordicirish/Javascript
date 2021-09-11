@@ -22,7 +22,7 @@ Simple game to user test reaction speed
 <br>
 <ul>
 <li>Generates circles or square shapes </li>
-<li>Shapes have random colours, sizes and positions/li>
+<li>Shapes have random colours, sizes and positions</li>
 <li>Shapes are generated at random time intervals</li>
 <li>Displays the time taken for the user to click on a shape after it appears</li>
 </ul>  
